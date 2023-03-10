@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import Homepage from "../components/pages/Homepage"
+import Homepage from "../components/pages/Homepage";
 
 export default function ReactApp() {
   const [currentPage, setCurrentPage] = useState("Homepage");
